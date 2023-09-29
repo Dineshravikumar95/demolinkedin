@@ -18,6 +18,7 @@ public class demo {
 		Thread.sleep(5000);
 		driver.findElement(By.xpath("//button[@type=\"submit\"]")).click();
 		Thread.sleep(5000);
+		System.out.println("loin to linkedin");
 	
 
 	}
